@@ -2,7 +2,7 @@
   ### Hi there 👋
   
  🔭 I’m currently working Business Intelligence.  
-🌱 I’m currently learning Software Engineering.  
+🌱 I’m currently learning Software and Data Engineering.  
  👯 I’m looking to collaborate on Software Developer  
 🤔 I’m looking for Knowledge
 
